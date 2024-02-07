@@ -1,4 +1,4 @@
 # SPMDistributionPlayground
 Just a test repo for playing with SPM
 
-unstable release 
+stable release 1.3.0 after unstable
